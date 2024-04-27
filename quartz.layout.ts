@@ -8,9 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer(
     {
     links: {
-      "About": "https://www.pmcf.xyz/topo-da-mente",
-      "Are.na": "https://www.are.na/p-m-c-f",
-      "Mastodon": "https://mastodon.social/@freenandes",
+      Discord: "https://discord.gg/tech-852086316950618133",
     },
   }
   ),
@@ -29,10 +27,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Divider(),
-    Component.DesktopOnly(Component.RecentNotes({
-      title: "Most recent",
-      limit: 5
-    })),
+   // Component.DesktopOnly(Component.RecentNotes({
+   //   title: "Most recent",
+   //   limit: 5
+   // })),
     Component.DesktopOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
@@ -55,6 +53,12 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.TagList(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+    //Component.MobileOnly(Component.RecentNotes({
+    //  title: "Most recent",
+    //  limit: 5
+    //})),
     Component.Graph({
       localGraph: {
         linkDistance: 50,
@@ -63,12 +67,6 @@ export const defaultContentPageLayout: PageLayout = {
         linkDistance: 50,
       },
     }),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
-    Component.MobileOnly(Component.RecentNotes({
-      title: "Most recent",
-      limit: 5
-    })),
     Component.MobileOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
@@ -99,10 +97,10 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.Divider(),
-    Component.DesktopOnly(Component.RecentNotes({
-      title: "Most recent",
-      limit: 5
-    })),
+    //Component.DesktopOnly(Component.RecentNotes({
+    //  title: "Most recent",
+    //  limit: 5
+    //})),
     Component.DesktopOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,

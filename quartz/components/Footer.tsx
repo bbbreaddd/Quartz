@@ -12,11 +12,6 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          <small>
-            By <a href="https://www.pmcf.xyz">Pedro MC Fernandes</a>, unless otherwise stated or link-referenced.
-          </small>
-        </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

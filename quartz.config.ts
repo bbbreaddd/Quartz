@@ -3,18 +3,20 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Topo da mente",
-    enableSPA: false,
-    enablePopovers: false,
+    pageTitle: "breadcloud",
+    enableSPA: true,
+    enablePopovers: true,
     analytics: null,
-    baseUrl: "pmcf.xyz/topo-da-mente",
+    baseUrl: "breadcloud.net",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
+      fontOrigin: "googleFonts",
+      cdnCaching: true,
       typography: {
-        header: "Lexend Zetta",
+        header: "Schibsted Grotesk",
         body: "Lexend",
-        code: "Monaspace Neon",
+        code: "IBM Plex Mono",
       },
       colors: {
         lightMode: {
@@ -50,8 +52,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "relative" }),
       Plugin.Description(),
     ],
     filters: [
