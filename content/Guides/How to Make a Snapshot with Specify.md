@@ -1,8 +1,6 @@
 ---
-quickshare-date: 2023-04-29 09:54:02
-quickshare-url: https://noteshare.space/note/clh282yey1037701pjhm8mgvn5#etUvjFrSDLgctX1uO9w7qirDct8Yn50VA52uDtiJbB8
-dg-publish: true
-modified: 2024-04-27T09:26:50-07:00
+share: "true"
+modified: 2024-04-27T16:12:00-07:00
 ---
 
 # HOW TO MAKE A SNAPSHOT WITH SPECIFY
@@ -30,7 +28,7 @@ modified: 2024-04-27T09:26:50-07:00
 > [!NOTE]  
 > Click **"Remove Username"** if you want to hide your Windows username
 
-![Pasted image 20230429095013](attachments/pasted-image-20230429095013.png)
+![Pasted image 20230429095013](attachments/pasted-image-20230429095013.png)  
 Click **Start**  
 <br>
 3. After waiting a few seconds, it should open a website with your snapshot and also copy the link to your clipboard  
