@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+share: "true"
+modified: 2024-04-27T16:12:03-07:00
 ---
 1. Go to https://www.microsoft.com/en-us/software-download/windows10  
 ![pasted-image-20230510204836](attachments/pasted-image-20230510204836.png)

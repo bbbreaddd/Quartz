@@ -1,3 +1,8 @@
+---
+share: "true"
+modified: 2024-04-27T16:11:46-07:00
+---
+
 # REASONS WHY PREBUILTS SUCK
 
 ---
@@ -15,8 +20,8 @@ Most prebuilts (*especially made by OEMs like Dell, HP, Lenovo, Acer*) have very
 Prebuilts are usually priced very high compared to building a PC. (Ex. $1000 Prebuilt compared to a $700 built PC with higher quality parts. It's also very hard to find a decently priced prebuilt since 70% of them are not a good choice.
 
 > [!EXAMPLE]- Custom PC vs Prebuilt  
-> ![[attachments/reasons-why-prebuilts-suck_image-1.png]]  
-> ![[attachments/reasons-why-prebuilts-suck_image-2.png]]  
+> ![[attachments/reasons-why-prebuilts-suck_image-1.png|attachments/reasons-why-prebuilts-suck_image-1.png]]  
+> ![[attachments/reasons-why-prebuilts-suck_image-2.png|attachments/reasons-why-prebuilts-suck_image-2.png]]  
 > The custom PC comes with more storage, a faster GPU, and more quality parts in general. This also means you can get a custom PC that performs similar to the prebuilt but for cheaper.
 
 # TRANSPARENCY

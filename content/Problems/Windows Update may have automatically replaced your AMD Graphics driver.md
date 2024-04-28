@@ -1,3 +1,8 @@
+---
+share: "true"
+modified: 2024-04-27T16:11:38-07:00
+---
+
 # PROBLEM
 
 ![[attachments/123.png|500]]

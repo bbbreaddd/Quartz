@@ -25,7 +25,7 @@ share: "true"
 
 ## PROGRAMS
 
-⭐[[Notes/Playnite]] - All in one game launcher with lots of customisability  
+⭐[[Notes/Playnite|Notes/Playnite]] - All in one game launcher with lots of customisability  
 [BleachBit](https://www.bleachbit.org/) - Clean Your System and Free Disk Space  
 ⭐[Bitwarden](https://bitwarden.com/download/) - Free Open-Source Password Manager  
 [Parsec](https://parsec.app/) - Remote Desktop  
