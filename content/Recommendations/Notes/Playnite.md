@@ -1,5 +1,6 @@
 ---
-modified: 2024-04-26T23:59:37-07:00
+modified: 2024-04-27T16:11:22-07:00
+share: "true"
 ---
 
 # INFO
@@ -14,7 +15,7 @@ modified: 2024-04-26T23:59:37-07:00
 Desktop Theme: [Helium](https://playnite.link/addons.html#8b15c46a-90c2-4fe5-9ebb-1ab25ba7fcb1)
 
 > [!EXAMPLE]###  
-> ![[attachments/Pasted image 20240425003929.png]]
+> ![[attachments/Pasted image 20240425003929.png|attachments/Pasted image 20240425003929.png]]
 
 Fullscreen Theme: [McHero](https://playnite.link/addons.html#McHERO)
 
