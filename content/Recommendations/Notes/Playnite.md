@@ -1,5 +1,5 @@
 ---
-modified: 2024-04-28T16:34:15-07:00
+modified: 2024-04-28T16:53:14-07:00
 share: "true"
 ---
 
@@ -8,6 +8,7 @@ share: "true"
 **Link:** https://playnite.link/  
 **Github:** https://github.com/JosefNemec/Playnite
 
+---
 # SETUP
 
 ## THEMES
@@ -23,6 +24,7 @@ Fullscreen Theme: [McHero](https://playnite.link/addons.html#McHERO)
 >
 > ![[attachments/Playnite.mp4|Playnite]]
 
+---
 ## ADDONS
 
 ### **DUPLICATEHIDER**
