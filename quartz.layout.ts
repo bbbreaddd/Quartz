@@ -9,6 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     {
     links: {
       Discord: "https://discord.gg/tech-852086316950618133",
+      Github: "https://github.com/bbbreaddd/quartz/"
     },
   }
   ),
