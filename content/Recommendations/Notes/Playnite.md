@@ -1,5 +1,5 @@
 ---
-modified: 2024-04-27T21:30:55-07:00
+modified: 2024-04-28T16:34:15-07:00
 share: "true"
 ---
 
@@ -21,7 +21,7 @@ Fullscreen Theme: [McHero](https://playnite.link/addons.html#McHERO)
 
 > [!EXAMPLE]-
 >
-> [![[attachments/Pasted image 20240425003531.png|800]]](attachments/Playnite.mp4)
+> ![[attachments/Playnite.mp4|Playnite]]
 
 ## ADDONS
 
