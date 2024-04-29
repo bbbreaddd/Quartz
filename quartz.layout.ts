@@ -67,7 +67,7 @@ export const defaultContentPageLayout: PageLayout = {
     //  globalGraph: {
     //    linkDistance: 50,
     //  },
-    }),
+    //}),
     Component.MobileOnly(Component.Explorer({
       title: "Explore",
       useSavedState: true,
