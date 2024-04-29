@@ -60,13 +60,13 @@ export const defaultContentPageLayout: PageLayout = {
     //  title: "Most recent",
     //  limit: 5
     //})),
-    Component.Graph({
-      localGraph: {
-        linkDistance: 50,
-      },
-      globalGraph: {
-        linkDistance: 50,
-      },
+    //Component.Graph({
+    //  localGraph: {
+    //    linkDistance: 50,
+    //  },
+    //  globalGraph: {
+    //    linkDistance: 50,
+    //  },
     }),
     Component.MobileOnly(Component.Explorer({
       title: "Explore",
