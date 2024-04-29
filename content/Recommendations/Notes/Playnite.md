@@ -9,6 +9,7 @@ share: "true"
 **Github:** https://github.com/JosefNemec/Playnite
 
 ---
+
 # SETUP
 
 ## THEMES
@@ -25,6 +26,7 @@ Fullscreen Theme: [McHero](https://playnite.link/addons.html#McHERO)
 > ![[attachments/Playnite.mp4|Playnite]]
 
 ---
+
 ## ADDONS
 
 ### **DUPLICATEHIDER**
