@@ -1,5 +1,5 @@
 ---
-modified: 2024-04-28T16:53:14-07:00
+modified: 2024-04-30T13:56:34-07:00
 share: "true"
 ---
 
@@ -29,12 +29,9 @@ Fullscreen Theme: [McHero](https://playnite.link/addons.html#McHERO)
 
 ## ADDONS
 
-### **DUPLICATEHIDER**
+### **[[DUPLICATEHIDER|DUPLICATEHIDER]]**
 
 Hides duplicates which is helpful if you have the same game over multiple stores
-
-Helium has support for this to show you if a game has duplicates and an easy way to open them  
- ![[attachments/Playnite.DesktopApp_mpvXytifHY.gif|400]]
 
 ### **EXTRA METADATA LOADER**
 
@@ -50,7 +47,7 @@ Shows how long you played a game
 
 Shows you your achievements
 
-### **LUDUSAVI**
+### **[[LUDUSAVI|LUDUSAVI]]**
 
 Automatic backup for games  
 Can automatically backup after exiting a game
