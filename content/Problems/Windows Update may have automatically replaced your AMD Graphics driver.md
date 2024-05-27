@@ -37,14 +37,14 @@ https://www.windowscentral.com/how-disable-automatic-driver-updates-windows-10
 
 ![[attachments/17.png|1000]]
 
-5. Name the key **WindowsUpdate** and press **Enter**.
-6. Right-click the newly created key, select **New**, and click on **DWORD (32-bit) Value**.
+1. Name the key **WindowsUpdate** and press **Enter**.
+2. Right-click the newly created key, select **New**, and click on **DWORD (32-bit) Value**.
 
 ![[attachments/122.png|1000]]
 
-7. Name the key **ExcludeWUDriversInQualityUpdate** and press **Enter**.
-8. Double-click the newly created DWORD and set the value from **0** to **1**.
+1. Name the key **ExcludeWUDriversInQualityUpdate** and press **Enter**.
+2. Double-click the newly created DWORD and set the value from **0** to **1**.
 
 ![[attachments/18.png|1000]]
 
-9. Click **OK**.
+1. Click **OK**.
