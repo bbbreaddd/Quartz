@@ -19,7 +19,7 @@ You can close DevTools now 
 <br>
 Choose your language  
 ![pasted-image-20230510204909](attachments/pasted-image-20230510204909.png)  
-<br>
+  
 Now you will see the download links  
 6. Choose the 64-bit download (You most likely don't need 32-bit)  
 ![pasted-image-20230510205007](attachments/pasted-image-20230510205007.png)
